@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://airconditionersugarland/sitemap.xml
+Sitemap: https://airconditionersugarland/blog_sitemap.xml
